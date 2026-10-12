@@ -16,7 +16,7 @@ This is the prog-training repo for doing FRC cool prog training stuff.
 > [!WARNING]
 > Please note that this year, a lot of things are changing, such as the shift from using RoboRIO as the brain to SystemCore. So, the old notes are outdated.
 
-- [Kingston's Prog Guide](https://daprestopy.notion.site/lightonfire) (designed for the upcoming season 2026-27)
+- [Kingston's Prog Guide](https://daprestopy.notion.site/r0prog) (designed for the upcoming season 2026-27)
 - [Old Prog Guide](https://docs.google.com/document/d/1lgAkpvImsPxJ9BjwldKbvOrjB32RTy1gdqmSDnnCiVI/edit?usp=sharing) (designed for the 2024-25 season)
 
 ### How to Git
