@@ -19,6 +19,8 @@ This is the prog-training repo for doing FRC cool prog training stuff.
 - [Kingston's Prog Guide](https://daprestopy.notion.site/r0prog) (designed for the upcoming season 2026-27)
 - [Old Prog Guide](https://docs.google.com/document/d/1lgAkpvImsPxJ9BjwldKbvOrjB32RTy1gdqmSDnnCiVI/edit?usp=sharing) (designed for the 2024-25 season)
 
+- [Code structure + WPILib 2027 notes](WPILib_2027_notes.md)
+
 ### How to Git
 - [Video](https://youtu.be/Ala6PHlYjmw?si=JSRc1op9KvxCbyuV) (PLEASE WATCH THIS)
 - [Game](https://learngitbranching.js.org/) (then practice here)
