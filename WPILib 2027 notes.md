@@ -263,7 +263,8 @@ public class TurretSim implements TurretIO {
 }
 ```
 
-> [!NOTE] Raid Zero has wrapper classes!
+> [!NOTE]
+> Raid Zero has wrapper classes!
 > We already have wrapper classes that make it easy to write concise code for controlling motors, etc.
 
 Finally, we have a constants file with all of our constants for a single mechanism:
@@ -319,7 +320,7 @@ Commands are used in the **high-level, main mechanism classes**, **NOT in the lo
 
 Commands themselves do not automatically run. They **must be given to a `Scheduler` which will run them**. The WPILib `Scheduler` decides which `Command`s to run next.
 
-> [!WARNING] Bugs...
+> [!WARNING]
 > Commands not being put into the `Scheduler` is one of the main sources for bugs!! Thankfully this year WPILib automatically warns you if a `Command` is not passed to the `Scheduler`.
 
 ```java
@@ -408,7 +409,8 @@ void commandBody(Coroutine coroutine) {
 }
 ```
 
-> [!WARNING] Commands must be named
+> [!WARNING]
+> Commands must be named!
 > This year, all commands must be named to help with debugging. You can name a command by using the `.named()` method on a `Command`.
 
 # Aside: Units
