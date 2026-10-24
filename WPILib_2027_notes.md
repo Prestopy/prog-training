@@ -1,5 +1,4 @@
-```table-of-contents
-```
+# WPILib 2027 Notes...
 # Terminology
 - **Mechanism**: an independent, physical mechanism on a robot.
 - **Command**: a style of programming that encapsulates robot code in discrete, reusable actions (commands).
